@@ -20,9 +20,6 @@ sites/*/services.local.yml
 /sites/default/**/files
 /sites/default/**/private
 
-# Ignore SimpleTest multi-site environment.
-sites/simpletest
-
 # Packages #
 ############
 *.7z
